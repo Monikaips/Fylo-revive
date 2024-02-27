@@ -7,13 +7,17 @@ Welcome to the Fylo Landing Page repository! This repository contains the source
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
+- [Hosted Link](#Hosted_Link)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Author](#author)
 
 ## Demo
 
-You can view a live demo of the Fylo Landing Page [here](#https://github.com/Monikaips/Fylo-revive/). *(Add link to live demo)*
+![Screenshot 1](screenshots/1.jpg)
+![Screenshot 2](screenshots/2.jpg)
+![Screenshot 2](screenshots/3.jpg)
+![Screenshot 2](screenshots/4.jpg)
 
 ## Features
 
@@ -32,6 +36,12 @@ To run the Fylo Landing Page locally, follow these steps:
 
 Alternatively, you can download the repository as a ZIP file and extract it to your local machine.
 
+## Hosted_Link
+
+[Fylo Landing Page Hosted Link](https://monikaips.github.io/Fylo-revive/)
+
+Users can visit this link to view my Fylo Landing Page deployed on GitHub Pages.
+
 ## Usage
 
 Once the Fylo Landing Page is set up locally, you can:
@@ -42,15 +52,13 @@ Once the Fylo Landing Page is set up locally, you can:
 
 Feel free to customize the content and styles to fit your needs or use it as a template for your own landing page projects.
 
-## Contributing
+## Deployment
+To deploy the Fylo Landing Page, follow these steps:
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request with your proposed changes. 
-
-Before contributing, please review the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Host your HTML, CSS, and any JavaScript files on a web hosting service of your choice. There are many options available, including GitHub Pages, Netlify, Vercel, and more.
+Upload your files to the hosting provider's server.
+Configure any necessary settings or domain mappings as per the hosting provider's documentation.
+Once deployed, your landing page should be accessible via the provided URL.
 
 ## Author
 
